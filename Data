@@ -1,0 +1,5 @@
+line_chart.py: Python file implementing functions for creating line charts.
+bar_chart.py: Python file implementing functions for creating bar charts.
+scatter_plot.py: Python file implementing functions for creating scatter plots.
+utils.py: A utility module providing helper functions for data preparation and visualization customization.
+examples/: A directory containing example Python scripts demonstrating the usage of the data visualization library.
